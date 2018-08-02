@@ -1,13 +1,13 @@
 [START_CONFERENCES]
 ACC
-Big Ten
+BIG 10
 Big 12
 Pac-12
 SEC
 American
 MAC
 Conf USA
-Mt West
+MWC
 Sun Belt
 [END_CONFERENCES]
 [START_TEAMS]
@@ -142,5 +142,5 @@ Old Dominion, ODOM, Sun Belt, 35, APP, 3
 UT San Antonio, UTSA, Sun Belt, 43, UTEP, 1
 [END_CONF]
 [END_TEAMS]
-Rose Bowl, Orange Bowl, Sugar Bowl, Fiesta Bowl, Peach Bowl, Cotton Bowl, Citrus Bowl, Gator Bowl, Cactus Bowl, Alamo Bowl, Holiday Bowl, Sun Bowl, Liberty Bowl, Independence Bowl, Vegas Bowl, Military Bowl, Aloha Bowl, Humanitarian Bowl
+Rose Bowl, Orange Bowl, Sugar Bowl, Fiesta Bowl, Peach Bowl, Cotton Bowl, Outback Bowl, Gator Bowl, Capital One Bowl, Alamo Bowl, Holiday Bowl, Belk Bowl, Liberty Bowl, Music City Bowl, Las Vegas Bowl, Military Bowl, Beef O'Brady's Bowl, Heart of Dallas Bowl, Hawai'i Bowl, Armed Forces Bowl, Birmingham Bowl, Potato Bowl, Frisco Bowl, New Mexico Bowl
 [END_BOWL_NAMES]
